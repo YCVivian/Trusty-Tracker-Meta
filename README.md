@@ -18,7 +18,7 @@ Trusty Tracker is a blockchain application targeted to create a more secured way
 ## Credits
 This is a three-semester Managemnet Information Systems graduation project at National Chengchi University.
 
-## contributor
+## Contributor
 - Chien-Wen Chen
 - Yu-An Chang
 - Jia-Syun Wu
